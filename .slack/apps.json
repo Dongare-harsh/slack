@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T04K7UQG1HV": {
+      "app_id": "A069EKKJ9GQ",
+      "IsDev": false,
+      "team_domain": "launchbynttdata",
+      "team_id": "T04K7UQG1HV"
+    }
+  },
+  "default": "launchbynttdata"
+}
